@@ -1,0 +1,16 @@
+node_modules
+.env
+.env.local
+.next
+next-env.d.ts
+dist
+coverage
+.turbo
+.gate
+logs/*.json
+logs/*.err
+logs/*.out
+test-results
+playwright-report
+.DS_Store
+**/.DS_Store
